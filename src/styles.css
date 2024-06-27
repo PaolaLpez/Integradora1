@@ -1,0 +1,15 @@
+/* Asegúrate de que estos estilos estén incluidos en tu archivo global de estilos */
+.nav-link.active {
+    font-weight: bold;
+    color: #007bff !important;
+  }
+  
+  .navbar-brand img {
+    margin-right: 20px;
+  }
+  
+  .navbar {
+    padding: 20px 40px;
+  }
+  
+  
